@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All About Dev</title>
+</head>
+<body>
+<p1>I was born june 16 2008, i am 15 years old and here are some things I really like:</p1>
+<ul>
+    <li>Basketball</li>
+    <li>Food (I love trying food, like a lot)</li>
+    <li>Shoes</li>
+    <li>Video Games</li>
+</ul>
+<img src="https://www.ncaa.org/images/2023/3/30/MBB-WBB_BallHoop.JPG" alt="Basketball" width="400" length="200">
+<a href="https://aausports.org/">Link to the basketball league I play in</a>
+<p2>
+    Thanks for looking at my website!!!!</p2>
+</body>
+</html>
