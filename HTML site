@@ -1,20 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>All About Dev</title>
 </head>
 <body>
-<p1>I was born june 16 2008, i am 15 years old and here are some things I really like:</p1>
-<ul>
-    <li>Basketball</li>
-    <li>Food (I love trying food, like a lot)</li>
-    <li>Shoes</li>
-    <li>Video Games</li>
-</ul>
-<img src="https://www.ncaa.org/images/2023/3/30/MBB-WBB_BallHoop.JPG" alt="Basketball" width="400" length="200">
-<a href="https://aausports.org/">Link to the basketball league I play in</a>
-<p2>
-    Thanks for looking at my website!!!!</p2>
+<h1 class = "center-align">I was born june 16 2008, I am 15 years old and here are some things I really like:</h1>
+<div  class = "container">
+    <h3 class = "orange lighten-4 center-align">Basketball</h3>
+    <body><a href="https://aausports.org/" class="btn indigo">Sports League I play in</a>
+    <a href="https://www.nba.com/" class="btn small">Click to see something cool!</a>
+
+    </body>
+    <h3 class ="red darken-3 white-text left-align">Food (I love trying food, like a lot)</h3>
+    <body><a href="https://www.culinaryhill.com/cheese-tortellini-in-garlic-basil-sauce/" class="btn large">Recipe for my favorite dish </a>
+    </body>
+    <h4 class = "blue lighten-3 right-align">Shoes</h4>
+    <body>    <a href="https://stockx.com/nike-kobe-8-protro-triple-white" class="btn-floating light-blue pulse"> </a>
+    </body>
+
+
+    <h5 class = "purple lighten-3 white-text center-align">Video Games</h5>
+    <body>    <a href="https://shellshock.io/" class="btn-floating red pulse"> </a>
+    </body>
+
+</div>
+
+<h2 class = "orange lighten-2 center align">
+    Thanks for looking at my website!!!!</h2>
 </body>
-</html>
+<head>
+    <!--Import Google Icon Font-->
+    <link
+            href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            rel="stylesheet"
+    />
+    <!-- Compiled and minified CSS -->
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <title>Learning Materialize</title>
+    <style>
+        .box {
+            height: 200px;
+        }
+
+        .row {
+            margin: 40px auto;
+        }
+
+        .row > div {
+            background: lightblue;
+            padding: 10px;
+            border: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+
